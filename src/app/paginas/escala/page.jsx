@@ -46,7 +46,7 @@ const Page = () => {
 
             <div>
                 <div className='pl-5 pt-2'>
-                    <p className='text-[#5D1614] border border-[#5D1614] py-2 px-3 w-[15rem] rounded-[9px]'>Nome 1</p>
+                    <p className='text-[#5D1614] border border-[#5D1614] py-2 px-3 w-[15rem] rounded-[9px]'>Teste</p>
                 </div>
 
                 <div className='pl-5 pt-2'>
